@@ -3,12 +3,12 @@
 ### Solved.ac
 
 <hr/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)<br>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)<br>
 
 ### Github Stats
 
 <hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnydiary&theme=onedark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnydiary&theme=onedark&show_icons=true)
 
 
 
