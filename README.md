@@ -3,7 +3,7 @@
 ### Solved.ac
 
 <hr/>
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)<br>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)
 
 ### Github Stats
 
