@@ -1,11 +1,11 @@
 <div align="center">
   
-  <hr/>
+  <hr>
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)
-
-  <hr/>
-    ![jinny's GitHub stats]((https://github-readme-stats.vercel.app/api?username=jinnydiary&theme=onedark&show_icons=true)
-
+  
+  <hr>
+    ![jinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnydiary&show_icons=true&theme=onedark)
+  
 <!--
 **jinnydiary/jinnydiary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
