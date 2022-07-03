@@ -6,6 +6,7 @@
   <hr>
     ![jinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnydiary&show_icons=true&theme=onedark)
   
+   [![jinny's github stats](https://github-readme-stats.vercel.app/api?username=jinnydiary)](https://github.com/jinnydiary/github-readme-stats)
 <!--
 **jinnydiary/jinnydiary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
