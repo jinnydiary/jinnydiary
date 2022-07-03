@@ -1,16 +1,16 @@
+<div align="center">
 ### Hi there 👋
-
+  
 ### Solved.ac
-<br>
 <hr/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)
 <br>
 
 ### Github Stats
-
 <hr/>
 ![jinny's GitHub stats]((https://github-readme-stats.vercel.app/api?username=jinnydiary&theme=onedark&show_icons=true)
 
+</div>
 
 
 <!--
