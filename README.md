@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ### Solved.ac
-
+<br>
 <hr/>
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhch323)](https://solved.ac/hjhch323/)
+<br>
 
 ### Github Stats
 
